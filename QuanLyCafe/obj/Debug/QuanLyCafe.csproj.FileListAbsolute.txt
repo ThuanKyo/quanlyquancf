@@ -1,0 +1,94 @@
+E:\CS464\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+E:\CS464\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\CS464\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_HOME.resources
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_DATBAN.resources
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_QUANLY.resources
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB.mdf
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB_log.ldf
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_DATBAN.resources
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_Home.resources
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_login.resources
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_QUANLY.resources
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\cauam\OneDrive\Máy tính\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\CS403\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB.mdf
+E:\CS403\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB_log.ldf
+E:\CS403\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+E:\CS403\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\CS403\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_DATBAN.resources
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_Home.resources
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_login.resources
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_QUANLY.resources
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+E:\CS403\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB.mdf
+E:\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB_log.ldf
+E:\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+E:\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_DATBAN.resources
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_Home.resources
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_login.resources
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_QUANLY.resources
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+E:\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\CS464\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB.mdf
+E:\CS464\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB_log.ldf
+E:\CS464\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_login.resources
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB.mdf
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB_log.ldf
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_DATBAN.resources
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_Home.resources
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_login.resources
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_QUANLY.resources
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\cauam\OneDrive\Máy tính\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB.mdf
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QLCFDTB_log.ldf
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_DATBAN.resources
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_Home.resources
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_login.resources
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frm_QUANLY.resources
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+E:\CS403\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
